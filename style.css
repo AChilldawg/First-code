@@ -1,7 +1,17 @@
 body{
-    background-color: rgb(245, 201, 245);
+    background-color: rgb(201, 245, 233);
 }
 
 .container {
     background-color:rgb(171, 179, 253)
+}
+
+
+#thisissomething{
+    background-color: azure;
+}
+
+
+.col {
+    padding: 10px;
 }
